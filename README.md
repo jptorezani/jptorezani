@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jptorezani
+- 👀 I’m interested in developing games and other programs
+- 🌱 I’m currently learning Javascript and Unity
+- 📫 How to reach me: jptorezani@gmail.com
